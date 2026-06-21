@@ -13,14 +13,12 @@ HQ · IPO date · Sector · BICS classification · Reporting currency ·
 Stock exchange · Index memberships · ETF memberships
 
 ## 2. Company Overview
-200–300 words. Structure as short sub-paragraphs, one idea per paragraph. Cover:
+200–300 words. Structure as short sub-paragraphs, with no bold lead-ins, no sub-paragraph labels, and no bullet points. Weave these topics naturally across paragraphs:
 - Business model: core product, service, and monetisation mechanism
 - Scale & reach: size, geographic footprint, customer base
 - Segments & regions: how the business is organised and reported
 - Strategic positioning: key competitive differentiators and strategic priorities
 - Key revenue drivers: the 2–3 factors most likely to move revenue and margins
-
-No single paragraph should exceed 3 sentences. No bullet points — bold lead-ins with prose only.
 
 ## 3. Revenue & Profitability
 HTML table columns: last 5 completed fiscal years + up to 2 forward estimates.
