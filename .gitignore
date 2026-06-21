@@ -1,0 +1,19 @@
+# Word/Excel lock files
+~$*
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated reports and data
+reports/
+bloomberg_data/
+scorecard_summary.csv
