@@ -152,8 +152,9 @@ the scorecard is finalised — no separate extraction step required.
 - Margins / percentages: 1 decimal place; Y/Y change in bps
 - Periods: last 5 fiscal years + up to 2 forward estimates
 - Year order: always chronological — oldest first, newest last, estimates after actuals. If years are on columns: left-to-right. If years are on rows: top-to-bottom. Example: `2021A → 2022A → 2023A → 2024A → 2025A → 2026E → 2027E`
-- Currency: USD standard; use period-specific FX rates
+- Currency (mandatory): All monetary figures in prose and tables must be in USD. For non-US companies, convert every figure using the period-specific average FX rate and note the FX rate used (e.g. annual average for full-year figures, quarter-end for quarterly). Never leave figures in local currency.
 - Abbreviations: write for a reader who is not an expert in the target company's industry. On first use of any abbreviation, acronym, or industry/technical term (e.g. ARR, NRR, GLP-1, RAN, TAM, FCF), spell out the full name with the abbreviation in parentheses — e.g. `Annual Recurring Revenue (ARR)` — then the abbreviation alone may be used thereafter. If spelling out inline would clutter a table or prose, instead add a short notation line directly beneath the table or paragraph defining the abbreviation(s), e.g. *Note: NRR = Net Revenue Retention; ARPU = Average Revenue Per User.* Universally known terms (e.g. USD, CEO, IPO, GDP) are exempt.
+- Prose style (mandatory for all narrative sections): Write as flowing narrative prose. Integrate figures naturally into sentences rather than chaining facts with semicolons. Avoid data-dump style.
 - Citations: source after every data point — e.g. `"10-K FY2024"`, `"Q4 2025 earnings call"`
 - Missing data: use `"-"` only after genuinely searching; never fabricate
 - Empty tables: if all or the majority of cells would be N/A or N/D, skip the table entirely. Instead, state in one sentence why the data is unavailable and cite the source.
